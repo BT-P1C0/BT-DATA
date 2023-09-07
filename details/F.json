@@ -1,14 +1,1 @@
-{
-	"bus": {
-		"letter": "F",
-		"license": "UK04PA0636"
-	},
-	"driver": {
-		"name": "NANDAN",
-		"phone": "9690083679"
-	},
-	"helper": {
-		"name": "SANJEEV KUMAR",
-		"phone": "8958393779"
-	}
-}
+{"bus": {"letter": "F", "license": "UK04PA0636"}, "driver": {"name": "NANDAN", "phone": "9690083679"}, "helper": {"name": "SANJEEV KUMAR", "phone": "8958393779"}}

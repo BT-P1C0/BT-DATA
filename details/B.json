@@ -1,14 +1,1 @@
-{
-	"bus": {
-		"letter": "B",
-		"license": "UK04PA1787"
-	},
-	"driver": {
-		"name": "Raj Kumar",
-		"phone": "9458344915"
-	},
-	"helper": {
-		"name": "Amar Singh",
-		"phone": "9568490925"
-	}
-}
+{"bus": {"letter": "B", "license": "UK04PA1787"}, "driver": {"name": "RAJ KUMAR", "phone": "9458344915"}, "helper": {"name": "AMAR SINGH", "phone": "9568490925"}}
